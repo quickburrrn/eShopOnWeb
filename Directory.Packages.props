@@ -3,7 +3,7 @@
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
     <TargetFramework>net8.0</TargetFramework>
     <AspNetVersion>8.0.0</AspNetVersion>
-    <SystemExtensionVersion>8.0.1</SystemExtensionVersion>
+    <SystemExtensionVersion>9.0.3</SystemExtensionVersion>
     <EntityFramworkCoreVersion>8.0.0</EntityFramworkCoreVersion>
     <VSCodeGeneratorVersion>9.0.0</VSCodeGeneratorVersion>
   </PropertyGroup>
@@ -52,7 +52,7 @@
     <PackageVersion Include="NSubstitute.Analyzers.CSharp" Version="1.0.17" />
     <PackageVersion Include="System.Net.Http.Json" Version="$(SystemExtensionVersion)" />
     <PackageVersion Include="System.Security.Claims" Version="4.3.0" />
-    <PackageVersion Include="System.Text.Json" Version="9.0.2" />
+    <PackageVersion Include="System.Text.Json" Version="9.0.3" />
     <PackageVersion Include="Swashbuckle.AspNetCore" Version="6.8.1" />
     <PackageVersion Include="System.IdentityModel.Tokens.Jwt" Version="8.1.1" />
     <PackageVersion Include="Swashbuckle.AspNetCore.SwaggerUI" Version="7.3.1" />
